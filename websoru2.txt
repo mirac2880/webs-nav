@@ -1,0 +1,5 @@
+a)arka planý x ekseninde tekrarla.
+b)class ý kutu olan divi yukarýdan 20,saðdan30,aþaðýdan40,soldan50 boþluk býrak.
+c)iç boþluðu 10
+d)bu katman sýrasýný en arkada göster.
+e)classý chatmenu olan divin ekran sabit kalsýn sað alt köþede geniþliði 300,kenarlýðý 3 verengi kýrmýzý
